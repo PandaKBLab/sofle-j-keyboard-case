@@ -6,7 +6,7 @@ This open-source keyboard case is suitable for the Sofle-J ZMK Wireless Keyboard
 
 * Discord: [PandaKB Community](https://discord.gg/VMpcMuNcHf)
 * WhatsApp Channel: [Keyboard DIY Hub](https://whatsapp.com/channel/0029VazSAdTCxoB4CZ2LJS10)
-* Website:[https://pandakb.com/](https://pandakb.com/).
+* Website:[https://pandakb.com/](https://pandakb.com/)
 
 # License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
